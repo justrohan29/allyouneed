@@ -24,8 +24,7 @@ if st.button('Get Answer'):
 		st.error('Required Percentage is above 100. Sorry, please lower your expectations :)')
 
 
-
-#with st.sidebar:
+with st.sidebar:
 #	if st.button('Study Resources'):
  #   		webbrowser.open_new_tab('www.cbse.online')
 #	if st.button('Check me out'):
