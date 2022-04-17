@@ -29,4 +29,7 @@ with st.sidebar:
  #   		webbrowser.open_new_tab('www.cbse.online')
 #	if st.button('Check me out'):
  #   		webbrowser.open_new_tab('https://just--rohan.blogspot.com/')
-	st.write('Made By: Rohan Singh🙏')
+	st.write('Made By:   Rohan Singh🙏')
+	st.write('Kaksha-Dasvi')
+	st.write('Umar-15')
+	
