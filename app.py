@@ -25,8 +25,8 @@ if st.button('Get Answer'):
 
 
 
-with st.sidebar:
-	if st.button('Study Resources'):
-    		webbrowser.open_new_tab('www.cbse.online')
-	if st.button('Check me out'):
-    		webbrowser.open_new_tab('https://just--rohan.blogspot.com/')
+#with st.sidebar:
+#	if st.button('Study Resources'):
+ #   		webbrowser.open_new_tab('www.cbse.online')
+#	if st.button('Check me out'):
+ #   		webbrowser.open_new_tab('https://just--rohan.blogspot.com/')
