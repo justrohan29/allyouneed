@@ -16,6 +16,9 @@ b = o1*t1
 c = a-b
 answer = c/o2
 
+if t1 = 69:
+	st.warning("I see you are a man of culture")
+
 
 if st.button('Get Answer'):
 	if answer <= 100:
@@ -31,6 +34,4 @@ with st.sidebar:
 	st.write('Made By:   Rohan Singh🙏')
 	st.write('Kaksha-Dasvi')
 	st.write('Umar-15')
-	if t1 = 69:
-		st.warning("I see you are a man of culture")
 	
