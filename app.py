@@ -25,11 +25,12 @@ if st.button('Get Answer'):
 		
 
 with st.sidebar:
-#	if st.button('Study Resources'):
- #   		webbrowser.open_new_tab('www.cbse.online')
+	
 #	if st.button('Check me out'):
- #   		webbrowser.open_new_tab('https://just--rohan.blogspot.com/')
+#    		webbrowser.open_new_tab('https://just--rohan.blogspot.com/')
 	st.write('Made By:   Rohan Singh🙏')
 	st.write('Kaksha-Dasvi')
 	st.write('Umar-15')
+	if st.button('69'):
+		st.warning("I see you are a man of culture)
 	
