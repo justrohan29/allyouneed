@@ -14,9 +14,13 @@ o2 = 100 - o1
 a = total*100
 b = o1*t1
 c = a-b
+t1 = p
+total = q
+o1 = r
+
 answer = c/o2
 
-if t1 = 69:
+if p = 69:
 	st.warning("I see you are a man of culture")
 
 
