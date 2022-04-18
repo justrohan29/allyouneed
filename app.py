@@ -32,5 +32,5 @@ with st.sidebar:
 	st.write('Kaksha-Dasvi')
 	st.write('Umar-15')
 	if st.button('69'):
-		st.warning("I see you are a man of culture)
+		st.warning("I see you are a man of culture")
 	
