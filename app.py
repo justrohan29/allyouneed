@@ -23,7 +23,7 @@ if st.button('Get Answer'):
 	else:
 		st.error('Required Percentage is above 100. Matlab itna lana impossible hai :(')
 if st.button('Get Answer'):
-	if t1=total=o1=69:
+	if t1=69:
 		st.warning("I see you are a man of culture ಠ‿↼")
 
 with st.sidebar:
