@@ -8,7 +8,7 @@ t1 = st.slider('Enter your Term 1 Percentage:', 0, 100)
 
 
 total = st.slider('Enter Percentage you want to achieve:', 0, 100)
-o1 = st.slider('Enter term-1 weightage:', 0, 100)
+o1 = st.slider('Enter term-1 weightage:', 0, 99)
 o2 = 100 - o1
 #total*100 = (o1*t1+o2*x)
 a = total*100
