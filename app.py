@@ -32,6 +32,5 @@ with st.sidebar:
 	st.write('Kaksha-Dasvi')
 	st.write('Umar-15')
 	if t1=total=o1=69:
-		if st.button('Slider Puzzle'):
-			st.warning("I see you are a man of culture")
+		st.warning("I see you are a man of culture")
 	
