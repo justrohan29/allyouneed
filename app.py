@@ -20,11 +20,12 @@ o1 = r
 
 answer = c/o2
 
-if p = 69:
-	st.warning("I see you are a man of culture")
+
 
 
 if st.button('Get Answer'):
+	if p = 69:
+		st.warning("I see you are a man of culture")
 	if answer <= 100:
 		st.write("You need", answer, "%", "in term 2 reach your goal.")
 	else:
