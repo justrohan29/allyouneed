@@ -20,12 +20,11 @@ answer = c/o2
 if st.button('Get Answer'):
 	if answer <= 100:
      		st.write("You need", answer, "%", "in term 2 reach your goal.")
+			if t1 = 69:
+				st.warning("I see you are a man of culture ಠ‿↼")
 	else:
 		st.error('Required Percentage is above 100. Matlab itna lana impossible hai :(')
 		
-if st.button('Get Answer'):
-	if t1 = 69:
-		st.warning("I see you are a man of culture ಠ‿↼")
 
 with st.sidebar:
 #	if st.button('Study Resources'):
