@@ -19,7 +19,7 @@ answer = c/o2
 
 if st.button('Get Answer'):
 	if answer <= 100:
-     		st.write("You need", answer, "%", "in term 2 reach your goal.")
+		st.write("You need", answer, "%", "in term 2 reach your goal.")
 			if t1 = 69:
 				st.warning("I see you are a man of culture ಠ‿↼")
 	else:
