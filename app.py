@@ -14,9 +14,7 @@ o2 = 100 - o1
 a = total*100
 b = o1*t1
 c = a-b
-t1 = p
-total = q
-o1 = r
+
 
 answer = c/o2
 
@@ -24,8 +22,6 @@ answer = c/o2
 
 
 if st.button('Get Answer'):
-	if p = 69:
-		st.warning("I see you are a man of culture")
 	if answer <= 100:
 		st.write("You need", answer, "%", "in term 2 reach your goal.")
 	else:
