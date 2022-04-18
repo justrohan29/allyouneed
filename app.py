@@ -29,6 +29,10 @@ if st.button('Get Answer'):
 	else:
 		st.error('Required Percentage is above 100. Matlab itna lana impossible hai :(')
 		
+st.error("Do you really, really, wanna do this?")
+if st.button("Yes I'm ready to rumble"):
+    run_expensive_function()
+		
 
 with st.sidebar:
 	
