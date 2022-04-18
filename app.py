@@ -1,6 +1,10 @@
 import streamlit as st
 import webbrowser
 
+st.set_page_config(page_title='Two-Term Percentage Calculator')
+
+
+
 st.title('Percentage Calculator for Two Term System of CBSE.')
 st.subheader('Check you percentage here :)')
 t1 = st.slider('Enter your Term 1 Percentage:', 0, 100)
