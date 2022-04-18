@@ -31,6 +31,6 @@ with st.sidebar:
 	st.write('Made By:   Rohan Singh🙏')
 	st.write('Kaksha-Dasvi')
 	st.write('Umar-15')
-	if t1=total=o1=69:
+	if t1 = 69:
 		st.warning("I see you are a man of culture")
 	
