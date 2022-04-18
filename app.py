@@ -23,7 +23,7 @@ answer = c/o2
 
 if st.button('Get Answer'):
 	if t1==total and total==o1 and o1==69:
-		st.warning("I see you are a man of culture")
+		st.success("I see you are a man of culture")
 	if answer <= 100:
 		st.write("You need", answer, "%", "in term 2 reach your goal.")
 	else:
