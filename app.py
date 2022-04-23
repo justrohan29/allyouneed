@@ -28,12 +28,15 @@ answer = c/o2
 if st.button('Get Answer'):
 	if t1==total and total==o1 and o1==69:
 		st.success("I see you are a man of culture")
-	if answer <= 100:
+	if answer < 0:
+		st.write("You need 0 % in term 2 to reach your goal.")
+	elif answer <= 100:
 		st.write("You need", answer, "%", "in term 2 reach your goal.")
 	else:
 		st.error('Required Percentage is above 100. Matlab itna lana impossible hai :(')
 		
-		
+		answer <= 100:
+		st.write("You need", answer, "%", "in term 2 reach your goal.")
 
 with st.sidebar:
 	
