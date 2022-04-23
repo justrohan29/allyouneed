@@ -18,6 +18,7 @@ o2 = 100 - o1
 a = total*100
 b = o1*t1
 c = a-b
+vdish = 0
 
 
 answer = c/o2
@@ -29,7 +30,7 @@ if st.button('Get Answer'):
 	if t1==total and total==o1 and o1==69:
 		st.success("I see you are a man of culture")
 	if answer < 0:
-		st.write("You need 0 % in term 2 to reach your goal.")
+		st.write("You need", vdish, "%", "in term 2 reach your goal.")
 	elif answer <= 100:
 		st.write("You need", answer, "%", "in term 2 reach your goal.")
 	else:
